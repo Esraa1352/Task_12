@@ -5,7 +5,7 @@
 ### 2. Dribbling motors:
 - Focuses on Speed, so would require a motor with high RPM
 - Has to be small in size to fit inside the mechanism
-## 3. Passing & Shooting motors:
+### 3. Passing & Shooting motors:
 - Requires high torque to be able to deliver the passes and shots with high accuracy
 - Quick responses: the motor has to have low response time by optimizing the signals to get the best results.
 
